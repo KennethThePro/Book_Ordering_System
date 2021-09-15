@@ -1,7 +1,7 @@
 # Book Ordering System using Java
 
 ## Purpose
-The purpose of this program is to allow the user to order one or more customizable books with optional accessories to choose from. In addition, the user can view monthly purchase history
+The purpose of this program is to allow the user to order one or more customizable books with optional accessories to choose from. In addition, the user can view monthly purchase history.
 
 The customization of the books include the following options:  
 1. The size of book 
@@ -14,7 +14,7 @@ The optional accessories of the books include the following options:
 1. Calendars 
 2. Pen holder
 
-## Flow of the Book Ordering System
+## Features of the Book Ordering System
 The Book Ordering System will show a simple menu consisting of three options which are:
 1. Order New Custom Book
 2. View Monthly Purchase History
